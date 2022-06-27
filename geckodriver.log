@@ -3768,3 +3768,1689 @@ TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
 TimedPromise@chrome://remote/content/marionette/sync.js:220:10
 interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
 webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656072832240	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1656072859980	Marionette	INFO	Stopped listening on port 61634
+1656072875114	geckodriver	INFO	Listening on 127.0.0.1:61806
+1656072878182	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61807" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\help\\AppData\\Local\\Temp\\rust_mozprofile786qXZ"
+1656072878628	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:61807
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\help\\AppData\\Local\\Temp\\rust_mozprofile786qXZ\\search.json.mozlz4", (void 0)))
+1656072880997	Marionette	INFO	Listening on port 61827
+Read port: 61827
+1656072881066	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:61807/devtools/browser/d356719c-9fc2-496f-9d24-9428dd5a58ec
+1656072888636	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+GeckoDriver.prototype.minimizeWindow@chrome://remote/content/marionette/driver.js:2294:11
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656072897007	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656072917966	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656072928502	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656072938579	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656072948522	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656072958993	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1656073247190	Marionette	INFO	Stopped listening on port 61827
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1656073256499	geckodriver	INFO	Listening on 127.0.0.1:62024
+1656073259564	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62025" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\help\\AppData\\Local\\Temp\\rust_mozprofilexp1mul"
+1656073260002	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:62025
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\help\\AppData\\Local\\Temp\\rust_mozprofilexp1mul\\search.json.mozlz4", (void 0)))
+1656073262354	Marionette	INFO	Listening on port 62046
+DevTools listening on ws://localhost:62025/devtools/browser/1b3f82ec-250e-4c65-9008-788b85f5ae34
+Read port: 62046
+1656073262440	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1656073269292	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+GeckoDriver.prototype.minimizeWindow@chrome://remote/content/marionette/driver.js:2294:11
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656073275437	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656073284558	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1656073424866	Marionette	INFO	Stopped listening on port 62046
+1656073428062	geckodriver	INFO	Listening on 127.0.0.1:62117
+1656073431104	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62118" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\help\\AppData\\Local\\Temp\\rust_mozprofilep6YQBu"
+1656073431536	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:62118
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\help\\AppData\\Local\\Temp\\rust_mozprofilep6YQBu\\search.json.mozlz4", (void 0)))
+1656073433789	Marionette	INFO	Listening on port 62141
+Read port: 62141
+1656073433822	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:62118/devtools/browser/5a7b87ab-95d5-4133-a61a-cf42c74934f9
+1656073441144	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+GeckoDriver.prototype.minimizeWindow@chrome://remote/content/marionette/driver.js:2294:11
+1656073529083	Marionette	INFO	Stopped listening on port 62141
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "62195" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\help\\AppData\\Local\\Temp\\rust_mozprofilefbtzGl"
+1656073526962	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:62195
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\help\\AppData\\Local\\Temp\\rust_mozprofilefbtzGl\\search.json.mozlz4", (void 0)))
+1656073530153	Marionette	INFO	Listening on port 62217
+DevTools listening on ws://localhost:62195/devtools/browser/73dcd2b3-76c4-4b8a-b0bd-d5e457837521
+Read port: 62217
+1656073530268	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1656073537814	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+GeckoDriver.prototype.minimizeWindow@chrome://remote/content/marionette/driver.js:2294:11
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656073568519	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656073578292	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656073589135	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656073598938	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656073619483	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656073629478	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656073653570	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1656074485433	Marionette	INFO	Stopped listening on port 62217
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+" "localhost" "-no-remote" "-profile" "C:\\Users\\help\\AppData\\Local\\Temp\\rust_mozprofileUZIDC2"
+1656073668141	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:62286
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\help\\AppData\\Local\\Temp\\rust_mozprofileUZIDC2\\search.json.mozlz4", (void 0)))
+1656073670448	Marionette	INFO	Listening on port 62307
+DevTools listening on ws://localhost:62286/devtools/browser/7fbd7c17-e6ab-4b9c-bb26-2e2bbb09ebad
+Read port: 62307
+1656073670587	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1656073686162	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+GeckoDriver.prototype.minimizeWindow@chrome://remote/content/marionette/driver.js:2294:11
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656073693147	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656073721215	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656073731577	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656073741811	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656073752433	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1656074367958	geckodriver	INFO	Listening on 127.0.0.1:62419
+1656074370994	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62420" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\help\\AppData\\Local\\Temp\\rust_mozprofilexivP3m"
+1656074371420	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:62420
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\help\\AppData\\Local\\Temp\\rust_mozprofilexivP3m\\search.json.mozlz4", (void 0)))
+1656074373986	Marionette	INFO	Listening on port 62441
+Read port: 62441
+DevTools listening on ws://localhost:62420/devtools/browser/9e0924ef-b0fc-4d1d-b7d1-1a4e680d789c
+1656074374035	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1656074381062	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+GeckoDriver.prototype.minimizeWindow@chrome://remote/content/marionette/driver.js:2294:11
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656074387176	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656074397139	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656074406856	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656074416978	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656074426955	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656074436980	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656074486326	Marionette	INFO	Stopped listening on port 62441
+1656074637761	geckodriver	INFO	Listening on 127.0.0.1:62506
+1656074640818	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62507" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\help\\AppData\\Local\\Temp\\rust_mozprofileeXpRFw"
+1656074641258	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:62507
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\help\\AppData\\Local\\Temp\\rust_mozprofileeXpRFw\\search.json.mozlz4", (void 0)))
+1656074643509	Marionette	INFO	Listening on port 62528
+DevTools listening on ws://localhost:62507/devtools/browser/912dd2dc-5936-4fe0-9aa5-fef2bcbd1206
+Read port: 62528
+1656074643569	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1656074650802	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+GeckoDriver.prototype.minimizeWindow@chrome://remote/content/marionette/driver.js:2294:11
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656074655774	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656074666465	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656074676550	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656074686945	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656074696971	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656074706933	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656074749614	Marionette	INFO	Stopped listening on port 62528
+1656074752716	geckodriver	INFO	Listening on 127.0.0.1:62589
+1656074755771	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62590" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\help\\AppData\\Local\\Temp\\rust_mozprofilesgsUXa"
+1656074756199	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:62590
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\help\\AppData\\Local\\Temp\\rust_mozprofilesgsUXa\\search.json.mozlz4", (void 0)))
+1656074758472	Marionette	INFO	Listening on port 62611
+DevTools listening on ws://localhost:62590/devtools/browser/9a900ffe-2c14-4d75-a7d2-c46d28b3d752
+Read port: 62611
+1656074758557	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1656074765733	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+GeckoDriver.prototype.minimizeWindow@chrome://remote/content/marionette/driver.js:2294:11
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656074771280	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656074790691	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656074800890	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656074811323	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656074821036	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656074831177	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656074873041	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656074882941	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656074893087	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656074924438	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656074933203	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1656074968032	Marionette	INFO	Stopped listening on port 62611
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 12376, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1656074972652	geckodriver	INFO	Listening on 127.0.0.1:62678
+1656074975732	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62679" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\help\\AppData\\Local\\Temp\\rust_mozprofilepdUBya"
+1656074976208	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:62679
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\help\\AppData\\Local\\Temp\\rust_mozprofilepdUBya\\search.json.mozlz4", (void 0)))
+1656074979071	Marionette	INFO	Listening on port 62706
+Read port: 62706
+1656074979140	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:62679/devtools/browser/c2c449fb-b7f4-492e-9973-868204b860fc
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 767))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1656074987928	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+GeckoDriver.prototype.minimizeWindow@chrome://remote/content/marionette/driver.js:2294:11
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656074998877	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656075026486	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656075035317	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656075043848	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656075052975	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656075163157	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656075172288	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656075181186	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656075189736	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656075197580	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656075206761	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656075215931	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1656075297704	geckodriver	INFO	Listening on 127.0.0.1:62775
+1656075300757	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62776" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\help\\AppData\\Local\\Temp\\rust_mozprofilenAU8fb"
+1656075301200	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:62776
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\help\\AppData\\Local\\Temp\\rust_mozprofilenAU8fb\\search.json.mozlz4", (void 0)))
+1656075303528	Marionette	INFO	Listening on port 62798
+Read port: 62798
+1656075303561	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:62776/devtools/browser/e7d21d82-3692-4f91-8176-78234ee336bb
+1656075312109	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+GeckoDriver.prototype.minimizeWindow@chrome://remote/content/marionette/driver.js:2294:11
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656075317594	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656075330241	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656075353080	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656075365415	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656075377302	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656075421242	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656075432871	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656075445200	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656075457077	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656075481572	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1656075975587	Marionette	INFO	Stopped listening on port 62798
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+leH0zl8m"
+1656075864037	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:62906
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\help\\AppData\\Local\\Temp\\rust_mozprofileH0zl8m\\search.json.mozlz4", (void 0)))
+1656075866406	Marionette	INFO	Listening on port 62926
+DevTools listening on ws://localhost:62906/devtools/browser/e29dcc22-cc68-4d78-aa28-333eb06f098c
+Read port: 62926
+1656075866572	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1656075874698	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+GeckoDriver.prototype.minimizeWindow@chrome://remote/content/marionette/driver.js:2294:11
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656075880043	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656075892193	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656075903870	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656075916361	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656075928393	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656075952250	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1656076010054	Marionette	INFO	Stopped listening on port 62926
+1656076013703	geckodriver	INFO	Listening on 127.0.0.1:62987
+1656076016773	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62988" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\help\\AppData\\Local\\Temp\\rust_mozprofilezcXEmW"
+1656076017208	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:62988
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\help\\AppData\\Local\\Temp\\rust_mozprofilezcXEmW\\search.json.mozlz4", (void 0)))
+1656076019577	Marionette	INFO	Listening on port 63010
+DevTools listening on ws://localhost:62988/devtools/browser/a799fe2f-1c2d-430c-9a54-1b4c7fb6a48f
+Read port: 63010
+1656076019641	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1656076026758	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+GeckoDriver.prototype.minimizeWindow@chrome://remote/content/marionette/driver.js:2294:11
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656076037741	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656076049769	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656076062518	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656076074579	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656076086085	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656076098245	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656076110191	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1656076166164	Marionette	INFO	Stopped listening on port 63010
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1656076166258	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.js :: allowAllCerts.disable :: line 55"  data: no] Stack trace: allowAllCerts.disable()@cert.js:55
+destroy()@Session.jsm:202
+deleteSession()@WebDriverBiDi.jsm:143
+stop()@WebDriverBiDi.jsm:218
+!!! error running onStopped callback: TypeError: callback is not a function
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 165: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+1656077297742	geckodriver	INFO	Listening on 127.0.0.1:50134
+1656077300862	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50135" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\help\\AppData\\Local\\Temp\\rust_mozprofilecPBhy3"
+1656077301730	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:50135
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\help\\AppData\\Local\\Temp\\rust_mozprofilecPBhy3\\search.json.mozlz4", (void 0)))
+1656077304306	Marionette	INFO	Listening on port 50156
+DevTools listening on ws://localhost:50135/devtools/browser/4ae2a665-5959-42ad-ad34-92c60c817068
+Read port: 50156
+1656077304355	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1656077311698	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+GeckoDriver.prototype.minimizeWindow@chrome://remote/content/marionette/driver.js:2294:11
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656077333697	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656077346120	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656077358125	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656077370143	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656077383126	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656077395045	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656077407154	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1656077523759	Marionette	INFO	Stopped listening on port 50151656077525168	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50246" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\help\\AppData\\Local\\Temp\\rust_mozprofilekT2EcN"
+1656077525592	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:50246
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\help\\AppData\\Local\\Temp\\rust_mozprofilekT2EcN\\search.json.mozlz4", (void 0)))
+1656077528065	Marionette	INFO	Listening on port 50267
+DevTools listening on ws://localhost:50246/devtools/browser/dfdee4c3-afd1-46c5-94b9-450c672c8c04
+Read port: 50267
+1656077528151	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1656077535205	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+GeckoDriver.prototype.minimizeWindow@chrome://remote/content/marionette/driver.js:2294:11
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656078148168	Marionette	INFO	Stopped listening on port 50267
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1656078155893	geckodriver	INFO	Listening on 127.0.0.1:50393
+1656078158963	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50394" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\help\\AppData\\Local\\Temp\\rust_mozprofileDAXDhr"
+1656078159672	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:50394
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\help\\AppData\\Local\\Temp\\rust_mozprofileDAXDhr\\search.json.mozlz4", (void 0)))
+1656078162211	Marionette	INFO	Listening on port 50415
+DevTools listening on ws://localhost:50394/devtools/browser/2f43e27c-c4b9-4a0f-8da4-9c7c1f9279e4
+Read port: 50415
+1656078162283	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1656078169442	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+GeckoDriver.prototype.minimizeWindow@chrome://remote/content/marionette/driver.js:2294:11
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656078174560	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656078204774	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656078222922	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656078423932	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656078439278	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656078498220	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656078759318	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656078775073	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656078791171	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656078822991	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:312:10
+
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1656078854816	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1656078949481	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1656078967168	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1656078983055	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1656079000429	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:312:10
+
+1656079016898	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:312:10
+
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1656079033994	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1656079080740	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1656079096748	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1656079115048	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1656079130536	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: resource://devtools/client/framework/toolbox.js, line 3400: TypeError: data.frameData.id is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.error: "Failed to start [root-node] legacy listener for target null" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967576/domwalker24, type watchRootNode failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nmodule.exports@resource://devtools/shared/commands/resource/legacy-listeners/root-node.js:60:31\n", "resource://devtools/shared/protocol/Front.js", 106))
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1656079270802	Marionette	INFO	Stopped listening on port 50415
+1656079275963	geckodriver	INFO	Listening on 127.0.0.1:50682
+1656079279019	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50683" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\help\\AppData\\Local\\Temp\\rust_mozprofileS4Z96g"
+1656079279467	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:50683
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\help\\AppData\\Local\\Temp\\rust_mozprofileS4Z96g\\search.json.mozlz4", (void 0)))
+1656079281861	Marionette	INFO	Listening on port 50704
+Read port: 50704
+1656079281949	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:50683/devtools/browser/75e23663-b73a-454c-a84a-85ba66594bd1
+1656079291814	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+GeckoDriver.prototype.minimizeWindow@chrome://remote/content/marionette/driver.js:2294:11
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656079297843	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656079488728	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656079509029	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656079529015	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656079705128	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1656079787993	Marionette	INFO	Stopped listening on port 50704
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1656079845485	geckodriver	INFO	Listening on 127.0.0.1:49616
+1656079848529	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49617" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\help\\AppData\\Local\\Temp\\rust_mozprofileWaxC62"
+1656079848952	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:49617
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\help\\AppData\\Local\\Temp\\rust_mozprofileWaxC62\\search.json.mozlz4", (void 0)))
+1656079851391	Marionette	INFO	Listening on port 49638
+DevTools listening on ws://localhost:49617/devtools/browser/af0c4753-0ece-4f10-917c-23c5e4712880
+Read port: 49638
+1656079851465	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1656079860362	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+GeckoDriver.prototype.minimizeWindow@chrome://remote/content/marionette/driver.js:2294:11
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656079868992	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656079888611	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656079908004	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656079928105	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656079947855	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656079967630	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656079988557	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1656080104553	geckodriver	INFO	Listening on 127.0.0.1:49725
+1656080107611	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49726" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\help\\AppData\\Local\\Temp\\rust_mozprofileg6uJQy"
+1656080108036	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:49726
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\help\\AppData\\Local\\Temp\\rust_mozprofileg6uJQy\\search.json.mozlz4", (void 0)))
+1656080110290	Marionette	INFO	Listening on port 49748
+DevTools listening on ws://localhost:49726/devtools/browser/34f078b4-3997-45aa-a268-df8b118af391
+Read port: 49748
+1656080110339	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1656080117861	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+GeckoDriver.prototype.minimizeWindow@chrome://remote/content/marionette/driver.js:2294:11
+1656080131950	Marionette	INFO	Stopped listening on port 49748
+!!! error running onStopped callback: TypeError: callback is not a function
+1656080140476	geckodriver	INFO	Listening on 127.0.0.1:49827
+1656080143538	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49828" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\help\\AppData\\Local\\Temp\\rust_mozprofile6NtQsp"
+1656080143955	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:49828
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\help\\AppData\\Local\\Temp\\rust_mozprofile6NtQsp\\search.json.mozlz4", (void 0)))
+1656080146233	Marionette	INFO	Listening on port 49849
+Read port: 49849
+DevTools listening on ws://localhost:49828/devtools/browser/6d638681-53fe-44d1-b37c-d12fb192512b
+1656080146274	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1656080153642	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+GeckoDriver.prototype.minimizeWindow@chrome://remote/content/marionette/driver.js:2294:11
+1656080209696	Marionette	INFO	Stopped listening on port 49849
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1656080213096	geckodriver	INFO	Listening on 127.0.0.1:49928
+1656080216155	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49929" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\help\\AppData\\Local\\Temp\\rust_mozprofile0TNyRs"
+1656080216583	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:49929
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\help\\AppData\\Local\\Temp\\rust_mozprofile0TNyRs\\search.json.mozlz4", (void 0)))
+1656080218869	Marionette	INFO	Listening on port 49949
+DevTools listening on ws://localhost:49929/devtools/browser/2ca6a7c8-7e85-46b9-8cb5-5be4466a17d7
+Read port: 49949
+1656080218918	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1656080227318	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+GeckoDriver.prototype.minimizeWindow@chrome://remote/content/marionette/driver.js:2294:11
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656080231319	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656080250215	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1656080342335	Marionette	INFO	Stopped listening on port 49949
+1656080345246	geckodriver	INFO	Listening on 127.0.0.1:50007
+1656080348317	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50008" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\help\\AppData\\Local\\Temp\\rust_mozprofile74Dadm"
+1656080348749	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:50008
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\help\\AppData\\Local\\Temp\\rust_mozprofile74Dadm\\search.json.mozlz4", (void 0)))
+1656080350977	Marionette	INFO	Listening on port 50030
+DevTools listening on ws://localhost:50008/devtools/browser/3e9f86c9-d24e-43cc-800c-14e72b29f538
+Read port: 50030
+1656080351083	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1656080358634	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+GeckoDriver.prototype.minimizeWindow@chrome://remote/content/marionette/driver.js:2294:11
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656080363446	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656080384201	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656080402806	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656080421649	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656080459159	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656080477922	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1656306626178	geckodriver	INFO	Listening on 127.0.0.1:51362
+1656306629319	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51363" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\help\\AppData\\Local\\Temp\\rust_mozprofilelziOL9"
+1656306630195	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:51363
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\help\\AppData\\Local\\Temp\\rust_mozprofilelziOL9\\search.json.mozlz4", (void 0)))
+1656306632745	Marionette	INFO	Listening on port 51385
+Read port: 51385
+DevTools listening on ws://localhost:51363/devtools/browser/0b2b0eba-1c83-43f0-ac34-5e5c0e640d73
+1656306632849	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1656306640562	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+GeckoDriver.prototype.minimizeWindow@chrome://remote/content/marionette/driver.js:2294:11
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656306674164	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656306693129	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656306712146	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656306730574	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656306749447	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656306767957	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656306786621	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656306973047	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656306991861	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656307664042	Marionette	INFO	Stopped listening on port 51385
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1656307716952	geckodriver	INFO	Listening on 127.0.0.1:51520
+1656307720006	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51521" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\help\\AppData\\Local\\Temp\\rust_mozprofileUAvjhU"
+1656307720551	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:51521
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\help\\AppData\\Local\\Temp\\rust_mozprofileUAvjhU\\search.json.mozlz4", (void 0)))
+1656307723185	Marionette	INFO	Listening on port 51545
+Read port: 51545
+1656307723224	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:51521/devtools/browser/01f23999-6039-44bf-ac32-2accc1cc3103
+1656307731728	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+GeckoDriver.prototype.minimizeWindow@chrome://remote/content/marionette/driver.js:2294:11
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656307757447	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656307772077	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mxtoolbox.com"
+1656307894929	Marionette	INFO	Stopped listening on port 51545
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.

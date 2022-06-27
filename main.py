@@ -1,6 +1,6 @@
 from gettext import gettext
 from tkinter import *
-import requests
+import os
 import time
 from bs4 import BeautifulSoup
 from selenium import webdriver
@@ -21,23 +21,22 @@ driver.minimize_window()
 
 
 def btnClick():
-    Label(ws, text="", pady=15, padx=10, bg="#1b5563")
+    #Label(ws, text="Bekleniyor", pady=15, bg='#1b5563').grid(row=2 , rowspan=1)
     urlsInput= urlTb.get()
     #page = requests.get(url)
-    
+    os.remove('output.txt')
     urls = urlsInput.split(' ')
     for url in urls:
         driver.get("https://mxtoolbox.com/blacklists.aspx" )
-
-        with open('output.txt', 'w') as f:
-            f.write("")
+        
+        
         
         checkTxt = driver.find_element(by=By.NAME, value="ctl00$ContentPlaceHolder1$ucToolhandler$txtToolInput")
         checkTxt.clear()
         checkTxt.send_keys(url)
         checkBtn = driver.find_element(by=By.NAME, value="ctl00$ContentPlaceHolder1$ucToolhandler$btnAction")
         checkBtn.click()
-        time.sleep(5)
+        time.sleep(11)
         # result = driver.find_element(by=By.CLASS_NAME, value="tool-result-body")
         # print(result.get_attribute('value'))
         
@@ -46,13 +45,9 @@ def btnClick():
         with open('output.txt', 'a') as f:
                 f.write(result_text)
                 f.write('\n'*10)
-        
-        Label(ws, text="İşlem tamamlandı", pady=15, bg='#1b5563').grid(row=2 , rowspan=1)
     
+    Label(ws, text="İşlem tamamlandı", pady=15, bg='#1b5563').grid(row=2 , rowspan=1)
     
-
-    # soup = BeautifulSoup(page.text,"html5lib")
-    # print(soup.prettify())
     return 0
     
 
